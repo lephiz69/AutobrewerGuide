@@ -15,16 +15,19 @@ Now, let's get into the gritty details of operating the machine.
 
 - **Step 1:** Put any item in the highlighted dropper A.
 *It can be anything, such as a snow minion, or a cake. Just make sure it isn't a special item such as an enchanted diamond*
+
 ![image](https://i.ibb.co/3my80KcS/image.png)
 
 
 -   **Step 2:** Put items which are stackable to 64 in the highlighted hopper B.
 _It can be a stack of rotten flesh. Again, make sure it isn't a special item such as enchanted rotten flesh._
+
 ![image](https://i.ibb.co/tM4DCJb9/image.png)
 
 -   **Step 3:** As shown in the image, fill chest A with nether wart and fill chest B with golden carrots.,
 
 *You will need to wait a little **before starting** as the stacks of warts slowly fill into brewing stands one by one. Once all the materials have been transferred, the seepage of it will stop.*
+
 ![image](https://i.ibb.co/fzypkLnS/image.png)
 
 
@@ -32,6 +35,7 @@ _It can be a stack of rotten flesh. Again, make sure it isn't a special item suc
 Stand at B and fill the bottles letting it go into your stash. 
 /pickupstash and start filling the chests 
 The lamps are an indicator if bottles are in the chest. Fill all 12 chests.
+
 ![image](https://i.ibb.co/G3nvczbw/image.png)
 
 Now, you are ready to proceed with the final step of this stage.
@@ -66,6 +70,7 @@ Follow the item frame above or the signs infront correspondingly.
     -   Magic Find Potion, Spirit Potion, Wisp's Ice Flavoured Splash Potion and all the skill exp potions are to be filled in the chests above the brewing stand.
     -   Enchanted cakes aren't stackable, so they are also to be put in the chest above. They will need to be taken from chest and manually put into brewing stand each splash brewing,
     -   You'll have to take the night potions from the earlier chest (the one we used in golden carrots), to the chest of Fermented Spider Eye.
+    -   
     ![image](https://i.ibb.co/tThz4gGL/image.png)
 
 -   **Step 2:** Now, we fill in the redstone, glowstone and gunpowder stands.
@@ -86,6 +91,7 @@ Follow the item frame above or the signs infront correspondingly.
     -   White Carpet: None
 
 **Step 3:** Fill in these chests with respective brews for convenience.
+
 ![image](https://i.ibb.co/zVCjDGRP/image.png)
 
 
@@ -113,7 +119,7 @@ This will move the potions down and they will start automatically brewing.
 	- This will finally store it to the storage area below. This brew is completed.
 
 Repeat this process to get all the splashes.
-![Image](https://media.discordapp.net/attachments/928071926914617374/1374341121420955698/image.png?ex=682f03e9&is=682db269&hm=2da5d569d220e42b5bec0abbfe75b04e6c3781735f35c7bde0e9f740bdc067ba&=&width=1240&height=698)
+![Image](https://i.ibb.co/3YhMQVgt/image.png)
 
 
 ## Stage 3: Splashes Showdown
@@ -121,4 +127,4 @@ Repeat this process to get all the splashes.
 -   **Step 1:** Follow this graphic by BossFlea,
 
 Make sure that the brewing stand in the collection area and the hopper has **filler items** like Water Bottles following the image
-![Image](https://media.discordapp.net/attachments/928071926914617374/1374341236533755954/mqz9NFB.png?ex=682f0404&is=682db284&hm=6c3f272100dc477e5ce82e5d836ba554142467f81c3c38c01190961f37736d8d&=&width=1240&height=723)
+![Image](https://i.ibb.co/gbCTcR5y/image.png)
