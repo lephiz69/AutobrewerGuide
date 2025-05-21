@@ -13,7 +13,7 @@ Now, let's get into the gritty details of operating the machine.
 
 ## Stage 1: Awkward Potion making
 
-## - **Step 1:** Put any item in the highlighted dropper A.
+## **Step 1:** Put any item in the highlighted dropper A.
 *It can be anything, such as a snow minion, or a cake. Just make sure it isn't a special item such as an enchanted diamond*
 
 ![image](https://i.ibb.co/3my80KcS/image.png)
@@ -122,7 +122,7 @@ Repeat this process to get all the splashes.
 
 ## Stage 3: Splashes Showdown
 
-## **Step 1:** Follow this graphic by BossFlea,
+## **Step 1:** Follow this graphic by BossFlea
 
 Make sure that the brewing stand in the collection area and the hopper has **filler items** like Water Bottles following the image
 ![Image](https://i.ibb.co/gbCTcR5y/image.png)
