@@ -24,16 +24,14 @@ _It can be a stack of rotten flesh. Again, make sure it isn't a special item suc
 
 ![image](https://i.ibb.co/tM4DCJb9/image.png)
 
-## **Step 3:** As shown in the image, fill chest A with nether wart and fill chest B with golden carrots.,
+## **Step 3:** As shown in the image, fill chest A with nether wart and fill chest B with golden carrots.
 
 *You will need to wait a little **before starting** as the stacks of warts slowly fill into brewing stands one by one. Once all the materials have been transferred, the seepage of it will stop.*
 
 ![image](https://i.ibb.co/fzypkLnS/image.png)
 
 
-## **Step 4:** Fill Chests A with empty bottles. This is merely for your convenience,
-Stand at B and fill the bottles letting it go into your stash. 
-/pickupstash and start filling the chests 
+## **Step 4:** Fill Chests A with empty bottles. This is merely for your convenience, Stand at B and fill the bottles letting it go into your stash, /pickupstash and start filling the chests 
 The lamps are an indicator if bottles are in the chest. Fill all 12 chests.
 
 ![image](https://i.ibb.co/G3nvczbw/image.png)
