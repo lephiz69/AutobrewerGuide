@@ -42,8 +42,8 @@ Now, you are ready to proceed with the final step of this stage.
 
 ### **IMPORTANT: Open all the brewing stands before proceeding. You have to do this every time you start a brewing session. If your island is unloaded, it will reset.**
 
-~Note: Island unloads in ~10 seconds if you don't joins back in~
-~You can use an ALT or a COOP to bypass that, but be aware that sometimes the game may take their alchemy level for brewing. It is best to have the island empty during this.~
+Note: Island unloads in ~10 seconds if you don't joins back in
+You can use an ALT or a COOP to bypass that, but be aware that sometimes the game may take their alchemy level for brewing. It is best to have the island empty during this.
 
 -   **Step 5:** Flick lever A.
 
