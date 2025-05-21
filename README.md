@@ -19,19 +19,19 @@ Now, let's get into the gritty details of operating the machine.
 ![image](https://i.ibb.co/3my80KcS/image.png)
 
 
-## -   **Step 2:** Put items which are stackable to 64 in the highlighted hopper B.
+## **Step 2:** Put items which are stackable to 64 in the highlighted hopper B.
 _It can be a stack of rotten flesh. Again, make sure it isn't a special item such as enchanted rotten flesh._
 
 ![image](https://i.ibb.co/tM4DCJb9/image.png)
 
-## -   **Step 3:** As shown in the image, fill chest A with nether wart and fill chest B with golden carrots.,
+## **Step 3:** As shown in the image, fill chest A with nether wart and fill chest B with golden carrots.,
 
 *You will need to wait a little **before starting** as the stacks of warts slowly fill into brewing stands one by one. Once all the materials have been transferred, the seepage of it will stop.*
 
 ![image](https://i.ibb.co/fzypkLnS/image.png)
 
 
-## -   **Step 4:** Fill Chests A with empty bottles. This is merely for your convenience,
+## **Step 4:** Fill Chests A with empty bottles. This is merely for your convenience,
 Stand at B and fill the bottles letting it go into your stash. 
 /pickupstash and start filling the chests 
 The lamps are an indicator if bottles are in the chest. Fill all 12 chests.
@@ -45,7 +45,7 @@ Now, you are ready to proceed with the final step of this stage.
 Note: Island unloads in ~10 seconds if you don't joins back in
 You can use an ALT or a COOP to bypass that, but be aware that sometimes the game may take their alchemy level for brewing. It is best to have the island empty during this.
 
-## -   **Step 5:** Flick lever A.
+## **Step 5:** Flick lever A.
 
 This will start the brewing. Bottles will automatically load into the chest, get brewed, and then sent to their respective chests above the materials area. This process will repeat until you stop it, or bottles run out. The redstone lamp at the end of the hopper line will turn on if everything is full. You may stop the brewer by flicking the same lever again. 
 **Make sure you don't leave the island while this happens, it can result in confusing issues.**
@@ -60,7 +60,7 @@ This will start the brewing. Bottles will automatically load into the chest, get
 
 This is where we will finally craft the potions. Get ready for immense loss of your purse.
 
-## -   **Step 1:** Start filling in ingredients in the brewing stand.
+## **Step 1:** Start filling in ingredients in the brewing stand.
 
 Follow the item frame above or the signs infront correspondingly. 
 
@@ -73,7 +73,7 @@ Follow the item frame above or the signs infront correspondingly.
     -   
     ![image](https://i.ibb.co/tThz4gGL/image.png)
 
-## -   **Step 2:** Now, we fill in the redstone, glowstone and gunpowder stands.
+## **Step 2:** Now, we fill in the redstone, glowstone and gunpowder stands.
    
   **Note: white carpet = light gray carpet in the schematic, I have used white carpet to avoid confusion**
 
@@ -90,14 +90,14 @@ Follow the item frame above or the signs infront correspondingly.
     -   Gray Carpet: Enchanted Gunpowder
     -   White Carpet: None
 
-## - **Step 3:** Fill in these chests with respective brews for convenience.
+## **Step 3:** Fill in these chests with respective brews for convenience.
 
 ![image](https://i.ibb.co/zVCjDGRP/image.png)
 
 
 **IMPORTANT: Make sure to open every brewing stand before continuing!!**
 
-## -   **Step 4:** Finally, it is time for brewing!!!
+## **Step 4:** Finally, it is time for brewing!!!
 
 - First, turn on **Enable Input**. 
 This will allow the placement of brews. It is recommended to just keep this on forever. 
@@ -124,7 +124,7 @@ Repeat this process to get all the splashes.
 
 ## Stage 3: Splashes Showdown
 
-## -   **Step 1:** Follow this graphic by BossFlea,
+## **Step 1:** Follow this graphic by BossFlea,
 
 Make sure that the brewing stand in the collection area and the hopper has **filler items** like Water Bottles following the image
 ![Image](https://i.ibb.co/gbCTcR5y/image.png)
