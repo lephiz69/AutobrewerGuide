@@ -56,7 +56,7 @@ This will start the brewing. Bottles will automatically load into the chest, get
 
 -   **Optional step:** verify the contents of the chests to ensure it is all awkward potions and no water bottles have secretly mixed in.
 
-## Stage 2: Material Madness,
+## Stage 2: Material Madness
 
 This is where we will finally craft the potions. Get ready for immense loss of your purse.
 
